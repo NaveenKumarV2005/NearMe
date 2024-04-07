@@ -52,19 +52,26 @@ Execute the programs and publish them.
 '''
 
 ## OUTPUT
-![OUTPUT](./out.png)
 
-![OUTPUT](./out1.png)
+<img width="914" alt="out" src="https://github.com/NaveenKumarV2005/NearMe/assets/151476286/cf981a91-47a2-41fe-9bcd-db931b637be1">
 
-![OUTPUT](./out2.png)
+![out1](https://github.com/NaveenKumarV2005/NearMe/assets/151476286/d668e157-e945-4b73-af28-b0bde29b873f)
 
-![OUTPUT](./out3.png)
+<img width="913" alt="out2" src="https://github.com/NaveenKumarV2005/NearMe/assets/151476286/71d557a1-18a8-41ee-a246-f85c52ccc190">
 
-![OUTPUT](./out4.png)
+![out3](https://github.com/NaveenKumarV2005/NearMe/assets/151476286/8e561e82-d82a-4a8b-90ce-e89f525d0a0a)
 
-![OUTPUT](./out5.png)
+![out4](https://github.com/NaveenKumarV2005/NearMe/assets/151476286/83248e38-b06e-4c36-a3ca-0f0cf085896d)
 
-![OUTPUT](./out6.png)
+![out5](https://github.com/NaveenKumarV2005/NearMe/assets/151476286/ee7989f3-c133-4a54-a08c-eb32ea942cda)
+
+![out6](https://github.com/NaveenKumarV2005/NearMe/assets/151476286/77b047fc-930c-4741-ba6a-8281f44a169d)
+
+
+
+
+
+
 
 
 
